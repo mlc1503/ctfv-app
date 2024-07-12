@@ -4,4 +4,4 @@ CTFV, también coloquialmente conocida como *"Cacaus, Tramussos, Faves i Vi"*, f
 
 Este proyecto es una propuesta sobre cómo sería la CTFV si hubiera continuado como empresa hasta la actualidad. Con una imagen renovada y servicios de transporte nuevos, compitiendo (y tomando como inspiración) con empresas como FGC (*Ferrocarrils de la Generalitat de Catalunya*) o Euskotren.
 
-Un proyecto web desarrollado en [Typescript](https://www.typescriptlang.org/), [SCSS](https://sass-lang.com/), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindui.com/) y [Express.js](https://expressjs.com/), junto con la librería de componentes [HyperUI](https://www.hyperui.dev/). 
+Un proyecto web desarrollado en [Typescript](https://www.typescriptlang.org/), [Vue.js](https://vuejs.org/), [TailwindCSS](https://tailwindui.com/) y [Express.js](https://expressjs.com/), junto con la librería de componentes [HyperUI](https://www.hyperui.dev/). 

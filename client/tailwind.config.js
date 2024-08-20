@@ -5,11 +5,17 @@ export default {
     "./src/**/*.{vue,js,ts,jsx,tsx}"
   ],
   theme: {
-    colors:{
-      'main-yellow': '#FFB400',
-      'primary-blue': '#2F8BD7',
+    extend: {
+      colors:{
+        'main-yellow': '#FFB400',
+        'primary-blue': '#2F8BD7',
+        'desat-primary-blue': '#EEF6FC',
+        'desat-main-yellow': '#F0DFB7',
+        'warning-ocre': '#8F6400',
+        'desat-red': '#F4C3C3',
+        'warning-red': '#D92626',
+      },
     },
-    extend: {},
   },
   plugins: [],
 }

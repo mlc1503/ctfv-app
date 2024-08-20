@@ -1,10 +1,9 @@
-
 <template>
     <div class="w-full flex h-16 p-4 bg-main-yellow">
         <div class="h-full flex flex-1 justify-center">
             <div class="mr-auto flex gap-x-8 items-center">
-                <div class="h-auto"> <p class="text-lg font-normal">Estado de la red</p></div>
-                <div class="h-auto"> <p class="text-lg font-normal">Atención al cliente</p></div>
+                <div class="h-auto"> <a class="text-lg font-normal" href="" >Tarifas</a></div>
+                <div class="h-auto"> <a class="text-lg font-normal" href="" >Atención al cliente</a></div>
             </div>
         </div>
         <div class="h-full flex flex-1 justify-center items-center">
@@ -17,8 +16,8 @@
         </div>
         <div class="h-full flex flex-1 justify-center items-center">
             <div class="ml-auto flex gap-x-8 items-center">
-                <div class="h-auto"><p class="text-lg font-normal">Registrarse</p></div>
-                <div class="h-auto"><p class="text-lg font-normal">Iniciar Sesión</p></div>
+                <div class="h-auto"><a class="text-lg font-normal" href="" >Registrarse</a></div>
+                <div class="h-auto"><a class="text-lg font-normal" href="" >Iniciar Sesión</a></div>
             </div>
         </div>
     </div>

@@ -83,9 +83,17 @@ var date = ref(null);
         <img src="../assets/images/plano_ctfv.png" alt="" width="100%"srcset="">
       </div>
     </div>
+    <div class="inline-flex justify-between">
+      <div class="w-1/4 bg-[#d9d9d9] p-4 rounded-lg">
+        <div class="bg-white mx-auto min-h-40 rounded-t-sm"></div>
+        <div class="w-full inline-flex align-center justify-end my-8 border border-black">
+          <button class="min-w-min px-2 h-10 rounded-lg bg-primary-blue text-white text-center font-normal text-xl" type="button">Ir a Tarifas</button>
+        </div>
+      </div>
+    </div>
 
     <div class="w-full h-auto mx-auto bg-main-yellow inline-flex justify-center items-center">
-      <ctfv_full-logo class="w-1/3"/>
+      <ctfv_full-logo class="w-1/4 h-min mt-8 mb-4"/>
     </div>
   </main>
 </template>

@@ -11,7 +11,7 @@ export default {
         'primary-blue': '#2F8BD7',
         'desat-primary-blue': '#EEF6FC',
         'desat-main-yellow': '#F0DFB7',
-        'warning-ocre': '#8F6400',
+        'warning-ocre': '#7A5600',
         'desat-red': '#F4C3C3',
         'warning-red': '#D92626',
       },
